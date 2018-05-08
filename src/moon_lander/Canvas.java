@@ -9,7 +9,7 @@ import java.awt.event.MouseListener;
 import java.awt.image.BufferedImage;
 
 /**
- * Created by ronald on 05/12/16.
+ * Created by ronald on 05/12/16..
  */
 public abstract class Canvas extends JPanel implements KeyListener, MouseListener {
 
